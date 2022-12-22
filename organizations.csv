@@ -1,0 +1,199 @@
+Organization Name,Tech Stack,Topics,Number of Students Accepted
+AnkiDroid,"['android', 'java', 'rust', 'kotlin', 'mobile']","['education', 'mobile', 'android', 'user generated content', 'Flashcards']",3
+Fortran-lang,"['python', 'c++', 'fortran']","['compilers', 'programming languages', 'build systems', 'libraries', 'Fortran']",5
+SageMath,"['python', 'cython']","['mathematics', 'education', 'research']",5
+LibreHealth,"['python', 'javascript', 'android', 'java', 'dart/flutter']","['web', 'deep learning', 'hfoss', 'radiology', 'mobile apps']",4
+Homebrew,"['linux', 'ruby', 'macos']","['linux', 'package manager', 'macos']",1
+The ENIGMA Team,"['opengl', 'c++', 'qt5']","['graphics', 'game development', 'compiler', 'programming', 'game design']",3
+MZmine,"['java', 'javafx']","['visualization', 'mass spectrometry', 'biochemistry', 'feature detection', 'ion mobility']",1
+Open Robotics,"['ros', 'gazebo', 'ignition', 'Open-RMF']","['robotics', 'simulation']",2
+The Honeynet Project,"['python', 'javascript', 'django', 'go', 'docker']","['honeypots', 'malware analysis', 'Threat Intelligence']",6
+"Department of Biomedical Informatics, Emory University","['python', 'javascript', 'java', 'workflows', 'dicom']","['science and medicine', 'data integration', 'workflows', 'radiology', 'distributed system']",8
+GNU Radio,"['python', 'c++', 'qt', 'simd']","['real-time', 'dsp', 'communications engineering', 'cybersecurity', 'Software-Defined Radio']",1
+Global Alliance for Genomics and Health,"['python', 'postgresql', 'java', 'react', 'rust']","['web', 'genomics', 'bioinformatics', 'genetics', 'standards']",8
+QEMU,"['c', 'python', 'linux', 'rust']","['systems programming', 'kernel', 'compiler', 'emulator', 'hypervisor']",4
+DBpedia,"['python', 'javascript', 'java', 'scala', 'rdf']","['natural language processing', 'semantic web', 'linked data', 'knowledge graph', 'data extraction']",4
+Open Genome Informatics,"['python', 'mysql', 'react', 'r-project', 'graph']","['genomics', 'bioinformatics', 'cloud', 'biology', 'data discovery']",2
+LibreCube Initiative,"['python', 'mongodb', 'rest', 'micropython', 'zmq']","['space', 'cubesat', 'mission control', 'Communication Protocols']",1
+MetaBrainz Foundation Inc,"['python', 'react', 'perl', 'postgres', 'spark']","['open data', 'music', 'books', 'Music recommendation', 'music social network']",7
+INCF,"['python', 'javascript', 'java', 'c++', 'gpu']","['machine learning', 'data visualization', 'neuroscience', 'brain modelling', 'neuroimage processing']",35
+Jitsi,"['javascript', 'java', 'react', 'webrtc', 'react native']","['video conferencing', 'WebRTC']",6
+KDE Community,"['c++', 'qt', 'qml', 'data structures']","['education', 'science', 'applications', 'desktop environment']",6
+Kart Project,"['python', 'c++', 'git', 'gis']","['version control', 'gis', 'data', 'point clouds', 'spatial']",1
+Blender Foundation,"['c', 'python', 'opengl', 'c++', 'vulkan']","['games', 'graphics', '3d', 'rendering', 'animation']",3
+RADAR-base,"['java', 'kotlin', 'docker', 'angular', 'kafka']","['web', 'mhealth', 'remote patient monitoring', 'micro-services', 'devices']",3
+Polypheny,"['javascript', 'java', 'sql', 'angular']","['database', 'big data', 'cloud', 'polystore', 'nosql']",3
+Society for Arts and Technology (SAT),"['python', 'javascript', 'opengl', 'c++', 'supercollider']","['web', 'graphics', 'cloud', 'multimedia', 'accessibility']",3
+GNU Compiler Collection (GCC),"['c/c++', 'gnu make', 'gnu autotools']","['compilers', 'developer tools', 'toolchain', 'openmp', 'link time optimization']",3
+Joomla!,"['mysql', 'javascript', 'html', 'php', 'css']","['web', 'programming languages', 'web development', 'web applications', 'cms']",4
+Keptn,"['golang', 'kubernetes', 'angular', 'Helm']","['cloud', 'devops', 'sre', 'CloudNative', 'Operations']",3
+Semi Technologies,"['python', 'machine learning', 'golang', 'vectors', 'natural language processing']","['machine learning', 'Vector Database', 'Search Engines']",3
+GitLab,"['javascript', 'ruby on rails', 'go', 'ruby', 'vue']","['cloud', 'devops']",3
+CCExtractor Development,"['c', 'linux', 'rust', 'flutter']","['video', 'subtitles', 'mobile', 'peer to peer']",10
+CHIPS Alliance,"['fpga', 'chisel', 'risc-v', 'systemverilog', 'ASIC']","['soc', 'IP cores', 'ASIC design', 'HDL', 'chiplets']",3
+The Linux Foundation,"['c', 'linux', 'c++', 'cups', 'ipp']","['kernel', 'automotive', 'printing', 'iio', 'zephyr']",14
+Red Hen Lab,"['python', 'machine learning', 'computer vision', 'nlp', 'data science']","['data science', 'media', 'language', 'multimodal communication', 'gesture']",12
+Oppia Foundation,"['python', 'android', 'google app engine', 'angular', 'typescript']","['education', 'web', 'community', 'nonprofit', 'social impact']",14
+OpenAFS,"['c', 'python', 'git', 'ansible', 'filesystems']","['testing', 'network', 'storage', 'filesystems']",2
+NumFOCUS,"['python', 'c++', 'r', 'julia']","['data science', 'graphics', 'scientific computing', 'numerical computation']",37
+OSGeo (Open Source Geospatial Foundation),"['c', 'python', 'javascript', 'java', 'c++']","['open science', 'gis', 'citizen science', 'geolocation', 'mapping']",6
+Django Software Foundation,"['python', 'django']","['web', 'python']",2
+CGAL Project,"['c++', 'qt']","['geometry', 'mesh processing', 'computation geometry', 'geometry processing']",6
+FreeType,"['c', 'autotools', 'meson']","['library', 'rendering', 'fonts', 'opentype', 'Truetype']",2
+GNU Image Manipulation Program,"['c', 'GEGL']","['graphics', 'design', 'photography', 'illustration']",1
+Unikraft,"['c', 'python', 'xen', 'kvm', 'assembly language']","['virtualization', 'cloud', 'software reuse', 'software configurability']",3
+Scala Center,"['scala', 'scala.js', 'scala native']","['education', 'compilers', 'tooling']",4
+Xfce,"['c', 'gtk']","['desktop', 'customization']",3
+XWiki,"['javascript', 'java', 'html5', 'css3', 'velocity']","['web development', 'wiki', 'platform', 'web applications', 'structured data']",1
+Eclipse Foundation,"['java', 'che', 'deeplearning', 'eclipsejavaide', 'jakartaee']","['robotics', 'automotive', 'tools', 'cloud native java', 'iot & edge']",5
+Robolectric,"['android', 'java', 'jvm', 'asm']","['testing', 'mobile']",2
+omegaUp,"['python', 'mysql', 'php', 'typescript', 'vue.js']","['education', 'web', 'cloud', 'edtech', 'UX/UI']",1
+OpenMRS,"['mysql', 'javascript', 'java', 'fhir', 'Cypress']","['platform', 'Electronic Medical Record System']",5
+OpenAstronomy,"['python', 'javascript', 'julia', 'css']","['astronomy', 'solar physics', 'high energy astrophysics']",8
+Machine Learning for Science (ML4SCI),"['python', 'machine learning', 'c++', 'data analysis', 'artificial intelligence']","['machine learning', 'science and medicine', 'algorithms', 'physics', 'astronomy']",20
+MetaCall,"['python', 'c++', 'rust', 'nodejs', 'docker']","['cloud', 'polyglot', 'faas', 'languages', 'ffi']",5
+RoboComp,"['python', 'opencv', 'c++', 'qt', 'pytorch']","['robotics', 'computer vision', 'component-based development', 'Multi-agent Systems']",5
+BRL-CAD,"['python', 'c/c++', 'opengl', 'opencl', 'scripting']","['geometry', '2d/3d graphics', 'ray tracing', 'high-performance computing', 'conversion standards']",7
+rocket.chat,"['javascript', 'raspberry pi', 'typescript', 'node', 'meteorJS']","['communications', 'messaging', 'group chat', 'Team Collaboration', 'Chat platform']",12
+Plone Foundation,"['python', 'javascript', 'react']","['web', 'cms']",4
+Rizin,"['c', 'python', 'c++', 'qt']","['reverse engineering', 'computer security', 'debugging', 'emulation', 'disassembly']",2
+Open Bioinformatics Foundation (OBF),"['python', 'javascript', 'c++', 'html/css', 'Git/GitHub']","['open science', 'genomics', 'bioinformatics', 'workflows', 'Open Source Bioinformatics']",5
+MDAnalysis,"['python', 'cython', 'c/c++']","['science', 'computational-chemistry', 'high-performance-computing', 'molecular-simulation', 'soft-matter-physics']",2
+Wikimedia Foundation,"['python', 'javascript', 'html', 'php', 'css']","['semantic web', 'wikipedia', 'wikimedia', 'mediawiki', 'i18n']",7
+Sugar Labs,"['python', 'gtk', 'typescript', 'javascipt']","['education', 'games', 'desktop']",9
+CHAOSS,"['python', 'postgresql', 'javascript', 'machine learning', 'airflow']","['Diversity Equity and Inclusion', 'open source software metrics', 'software sustainability', 'community building', 'security and software bill of materials']",5
+Forschungszentrum Jülich,"['python', 'mpi', 'high performance computing', 'pytorch', 'gpu']","['neuroscience', 'data analytics', 'astrophysics', 'data-intensive science', 'earth-system monitoring']",4
+The Julia Language,"['machine learning', 'julia', 'data science', 'gui', 'models']","['math', 'machine learning', 'science', 'data science', 'graphs']",19
+52°North Spatial Information Research GmbH,"['javascript', 'android', 'java', 'web services', 'ogc standards']","['citizen science', 'spatial information infrastructures', 'open standards', 'data analytics', 'Geoinformation']",5
+MBDyn,"['python', 'c++']","['robotics', 'scientific computing', 'multibody dynamics', 'aeroelasticity', 'Structural engineering']",1
+Git,"['shell script', 'git', 'c language']","['version control', 'dvcs']",2
+Performance Co-Pilot,"['c', 'grafana', 'redis', 'htop', 'sysstat']","['metrics', 'visualization', 'distributed', 'performance', 'observability']",2
+Open3D team,"['python', 'c++', 'cuda', 'tensorflow', 'pytorch']","['3D machine learning', '3D data processing', '3D visualization', 'physically based rendering']",3
+X.Org Foundation,"['opengl', 'vulkan', 'x11', 'wayland', 'DRM']","['graphics', 'drivers']",3
+JdeRobot,"['python', 'ros', 'gazebo', 'opencv', 'tensorflow']","['education', 'artificial intelligence', 'robotics', 'computer vision', 'developer tools']",6
+The Palisadoes Foundation,"['mongodb', 'node.js', 'flutter', 'graphql', 'typescript']","['web', 'api', 'database', 'cloud', 'mobile']",8
+JabRef e.V.,"['java', 'javafx', 'bibtex']","['science', 'library', 'literature', 'latex']",1
+Debian,"['c', 'python', 'java', 'ruby', 'perl']","['web', 'robotics', 'graphics', 'cloud', 'SDR']",2
+strace,"['c', 'shell', 'make', 'autotools', 'gawk']","['debugging', 'tracing', 'diagnostic']",1
+Kodi,"['python', 'opengl', 'c++', 'ffmpeg', 'sqlite']","['games', 'audio', 'video', 'media', 'tv']",1
+Liquid Galaxy project,"['python', 'linux', 'android', 'flutter', 'Google Earth']","['visualization', 'networking', 'maps', 'cluster', 'ux']",9
+LibreOffice,"['python', 'java', 'c++']","['office suite', 'desktop application', 'end user application']",2
+VideoLAN,"['c', 'c++', 'qt', 'assembly', 'video']","['audio', 'streaming', 'video', 'codecs', 'media database']",6
+libssh,"['c', 'ssh']","['security', 'cryptography']",1
+PEcAn Project,"['r', 'docker', 'api', 'geospatial']","['data science', 'ecosystem models', 'scientific visualization', 'climate science', 'Ecological Forecasting,']",5
+AboutCode,"['python', 'javascript', 'Django+PostgreSQL', 'C/Rust/Go']","['dependencies', 'vulnerabilities', 'SoftwareCompositionAnalysis', 'License', 'SBOM']",5
+OpenStreetMap,"['python', 'javascript', 'java', 'c++', 'sql']","['databases', 'routing', 'gis', 'ui', 'geocoding']",4
+The ns-3 Network Simulator Project,"['python', 'django', 'c++']","['computer networking', 'network simulation']",2
+Inkscape,"['python', 'c++', 'svg']","['web', 'graphics', 'design']",3
+Drupal Association,"['mysql', 'javascript', 'html', 'php', 'symfony']","['web', 'cloud', 'DXP', 'Massive community', 'Inclusive']",3
+BeagleBoard.org,"['linux', 'fpga', 'risc-v', 'dsp', 'Zephyr RTOS']","['robotics', 'iot', 'ai', 'software defined radio', 'Personal Server']",4
+RTEMS Project,"['python', 'c/c++', 'assembly', 'posix']","['kernel', 'embedded', 'real-time', 'multicore', 'rtos']",4
+MariaDB,"['python', 'javascript', 'c/c++', 'perl', 'databases']","['Database Engines', 'SQL Features']",6
+Mixxx,"['javascript', 'c++', 'qt']","['music', 'dj', 'streaming']",2
+AFLplusplus,"['llvm', 'rust', 'fuzzing', 'qemu']","['fuzzing', 'ci']",1
+GNU Octave,"['c++', 'hg']","['mathematics', 'scientific computing', 'numerical computation', 'numerical methods', 'matlab']",3
+sktime,"['python', 'github', 'sphinx', 'scikit-learn']","['data science', 'ai', 'time series', 'toolbox frameworks']",3
+openSUSE Project,"['python', 'linux', 'rust', 'Testing', 'configuration management']","['operating systems', 'software quality', 'developer tools', 'containers', 'edge']",4
+Haskell.org,"['haskell', 'ghc']","['compilers', 'programming languages', 'functional programming', 'programming tools']",10
+Internet Health Report,"['python', 'javascript', 'apache kafka', 'VueJS']","['networking', 'routing', 'communication', 'internet', 'data analytics']",3
+GeomScale,"['python', 'c++', 'r', 'jupyter', 'github-actions']","['mathematics', 'data science', 'computational biology', 'computational geometry', 'statistics']",6
+CircuitVerse.org,"['javascript', 'rails', 'canvas']","['education', 'web', 'simulation', 'pedagogy', 'digital logic design']",4
+coreboot,"['c', 'assembly', 'arm', 'x86']","['hardware', 'drivers', 'firmware', 'boot loader', 'BIOS']",1
+Matrix.org,"['python', 'javascript', 'rust']","['interoperability', 'decentralisation', 'Secure Messaging']",5
+OpenCV,"['python', 'c++', 'deep learning', 'ai']","['robotics', 'computer vision', 'ai', 'deep learning']",10
+FOSSology,"['python', 'postgresql', 'c/c++', 'php', 'reactjs']","['automation', 'spdx', 'license compliance', 'nlp', 'compliance automation']",6
+OpenVINO Toolkit,"['python', 'c++', 'x86']","['deep learning', 'Neural networks', 'Edge AI', 'DL-inference']",3
+Orcasound,"['python', 'javascript', 'raspberry pi', 'elixir', 'NextJs']","['web', 'audio', 'ai', 'acoustics', 'community science']",4
+Monado,"['opengl', 'vulkan', 'openxr', 'Graphics', 'XR']","['vr', 'xr', 'AR']",2
+syslog-ng,"['c', 'python', 'sql', 'elasticsearch', 'kafka']","['cloud', 'data processing pipeline', 'reliable log transfer', 'logging', 'high-performance data processing']",2
+libcamera,"['c/c++', 'linux kernel', 'qt5', 'gstreamer', 'v4l2']","['camera', 'image prcessing']",3
+CERN-HSF,"['python', 'c/c++', 'data analysis', 'artificial intelligence', 'container orchestration']","['machine learning', 'big data', 'algorithmics', 'particle physics', 'Performance Optimisation']",21
+GNSS-SDR,"['c', 'c++', 'sdr']","['gnss', 'geolocation', 'navigation', 'software defined radio', 'communications']",3
+Ruby,"['ruby on rails', 'ruby', 'rubygems', 'bundler']","['security', 'web']",3
+Center for Translational Data Science,"['python', 'aws']","['bioinformatics', 'data science', 'cloud', 'Data Meshes']",2
+The Mifos Initiative,"['android', 'java', 'kotlin', 'spring', 'angular']","['cloud', 'ai', 'fintech', 'financial inclusion', 'mobile banking']",9
+The Tor Project,"['c', 'python', 'rust']","['security', 'privacy', 'anti-censorship', 'Human Rights', 'Surveillance']",3
+Submitty,"['python', 'postgresql', 'javascript', 'c++', 'php']","['education', 'visualization', 'web', 'privacy/security', 'communication']",3
+Jenkins X,"['golang', 'kubernetes', 'gitops']","['cloud', 'CI/CD']",2
+Jenkins,"['javascript', 'java', 'go', 'docker', 'kubernetes']","['developer tools', 'automation', 'continuous integration', 'continuous delivery', 'devops']",4
+GNOME Foundation,"['c', 'linux', 'rust', 'gtk', 'Flatpak']","['operating systems', 'desktop', 'graphics', 'open source', 'apps']",9
+Neutralinojs,"['c', 'javascript', 'node.js', 'c++', 'typescript']","['desktop', 'framework', 'cross-platform', 'Application Development']",1
+SCoRe Lab,"['python', 'java', 'go', 'nodejs', 'reactjs']","['security', 'web', 'machine learning', 'cloud']",21
+Software Heritage,"['python', 'postgresql', 'javascript', 'django', 'git']","['big data', 'digital preservation', 'source code management', 'floss', 'big code']",1
+Haiku,"['c++', 'posix', 'unix']","['desktop', 'kernel']",3
+FRRouting,"['c', 'linux', 'networking', 'linux kernel', 'routing']","['networking', 'software defined networking', 'linux', 'routing', 'systems']",1
+Electron,"['javascript', 'node.js', 'c++', 'typescript', 'Chromium']","['desktop', 'framework', 'javascript']",1
+Python Software Foundation,"['python', 'javascript', 'sqlite']","['security', 'database', 'science', 'design']",28
+Organic Maps,"['android', 'java', 'c++', 'ios', 'OpenStreetMap']","['privacy', 'maps', 'navigation', 'mobile', 'offline']",2
+IOOS,"['python', 'ocean science']","['open data', 'data science']",4
+Synfig,"['python', 'c++', 'gtk', 'gtkmm']","['2d/3d graphics', 'animation', 'vector graphics']",2
+mlpack,"['c++', 'C++ template metaprogramming']","['machine learning', 'embedded', 'ai', 'deep learning', 'Neural networks']",4
+seaql,None,None,0
+MuseScore,"['c++', 'qt', 'qml', 'cmake']","['music', 'midi', 'musicxml', 'sheet music', 'music notation']",2
+Micro Electronics Research Lab - UITU,"['RISCV', 'Processor', 'Hardware', 'systemonchip', 'memory']","['iot', 'embedded', 'Processor', 'System on Chip', 'RISC-V']",3
+cBioPortal for Cancer Genomics,"['mysql', 'javascript', 'java', 'react', 'typescript']","['genomics', 'cancer', 'bioinformatics', 'big data', 'precision medicine']",2
+Center for Research in Open Source Software (CROSS),"['python', 'c/c++', 'verilog', 'apache arrow', 'matlab/simulink']","['hardware', 'data science', 'networking', 'data management', 'systems']",9
+PostgreSQL,"['c', 'python', 'postgresql', 'javascript', 'sql']","['web', 'database', 'ui', 'sql', 'Benchmark']",7
+JBoss Community,"['java', 'rust', 'golang']","['iot', 'cloud', 'microservices', 'kubernetes']",9
+Metasploit,"['c', 'python', 'postgresql', 'ruby', 'assembly']","['security', 'penetration testing', 'offensive security', 'exploitation']",1
+Joplin,"['javascript', 'react', 'typescript', 'electron', 'React-Native']","['database', 'search', 'synchronisation', 'note-taking', 'office']",6
+Casbin,"['javascript', 'java', 'go', 'OIDC', 'OAuth']","['security', 'cloud', 'authorization', 'IAM', 'Authentication']",10
+Audacity,"['c++', 'qt', 'cmake', 'wxwidgets', 'VST']","['audio', 'editing', 'compression', 'Sound', 'Effects']",1
+Responsible AI and Human Centred Technology,"['python', 'javascript', 'Technical writing']","['machine learning', 'ai', 'Fairness', 'Robustness', 'Safety', 'Interpretibility']",4
+Swift,"['c++', 'cmake', 'swift']","['compilers', 'cross-platform', 'Packages', 'Server development', 'Standard Libraries']",5
+Open Chemistry,"['python', 'javascript', 'opengl', 'c++', 'c++14']","['data science', 'graphics', 'scientific visualization', 'cheminformatics', 'quantum chemistry']",9
+FFmpeg,"['c', 'git', 'asm']","['audio', 'video', 'subtitles', 'multimedia']",2
+National Resource for Network Biology (NRNB),"['python', 'javascript', 'java', 'xml', 'r']","['web application', 'data science', 'graphics', 'scientific computing', 'network biology']",8
+Mathesar,"['python', 'postgresql', 'javascript', 'django', 'svelte']","['databases', 'web', 'data', 'nonprofit', 'self-hosted']",3
+reactos-foundation,None,None,0
+Learning Equality,"['python', 'javascript', 'django', 'vue.js']","['education', 'distributed databases', 'offline', 'learning']",3
+TianoCore,"['c', 'python', 'rust', 'golang', 'uefi']","['firmware', 'uefi', 'edk2', 'acpi', 'BIOS']",3
+Ceph,"['python', 'javascript', 'c++']","['distributed systems', 'Software-Defined-Storage']",1
+International Catrobat Association,"['javascript', 'android', 'swift', 'kotlin', 'php']","['education', 'visual programming', 'mobile programming', 'game engines', 'creativity tools']",11
+AOSSIE,"['python', 'javascript', 'machine learning', 'scala', 'Blockchain']","['machine learning', 'electronic voting', 'natural language processing', 'social science']",8
+Godot Engine,"['opengl', 'c++', 'vulkan', 'webassembly']","['graphics', 'cross-platform', 'game engine', 'game development', 'programming']",3
+freifunk,"['c', 'python', 'javascript', 'openwrt', 'gnu/linux']","['embedded systems', 'open hardware', 'routing', 'wireless networks', 'federation']",8
+XMPP Standards Foundation,"['javascript', 'java', 'go', 'vala', 'xmpp']","['instant messaging', 'chat', 'WebRTC', 'Jingle', 'Real-Time Communication']",1
+Open Food Facts,"['python', 'machine learning', 'perl', 'tensorflow', 'flutter']","['open data', 'health', 'environment', 'mobile', 'food']",4
+OWASP Foundation,"['python', 'javascript', 'java', 'ZAP', 'Juice Shop']","['web', 'cloud', 'application security', 'cybersecurity', 'DevSecOps']",15
+Zulip,"['python', 'django', 'typescript', 'react native', 'electron']","['mobile', 'great developer tooling', 'visual design', 'teaching quality codebase', 'team chat']",15
+PowerDNS,"['c++', 'DNS']","['DNS recursive solutions', 'Authoritative DNS software']",1
+ScummVM,"['opengl', 'lua', 'c++', 'assembly', 'sdl']","['games', 'game engines', 'software preservation', 'software archeology']",3
+Purr Data,"['c', 'javascript', 'html5', 'Emscripten']","['web', 'graphics', 'audio', 'realtime']",1
+Chromium,"['python', 'javascript', 'java', 'c++', 'git']","['web', 'browser', 'operating-system']",14
+The NetBSD Foundation,"['c', 'shell script', 'make', 'unix', 'bsd']","['kernel', 'packaging', 'userland', 'unix', 'bsd']",5
+Ste||ar group,"['c++', 'hpc']","['library', 'optimization', 'parallel algorithms', 'hpx', 'application']",4
+Wellcome Sanger Tree of Life,"['python', 'javascript', 'rust', 'nextflow']","['genomics', 'bioinformatics', 'data analysis', 'genome assembly']",1
+SymPy,"['python', 'numpy', 'jupyter']","['mathematics', 'physics', 'symbolic mathematics']",3
+TARDIS RT Collaboration,"['python', 'numba', 'numpy', 'jupyter', 'pandas']","['visualization', 'big data', 'simulation', 'astrophysics']",4
+The JPF team,"['android', 'java', 'distributed systems', 'jvm']","['model checking', 'symbolic execution', 'verification of concurrent systems', 'program analysis', 'test input generation']",2
+CNCF,"['prometheus', 'kubernetes', 'OpenTelemetry', 'envoy']","['cloud', 'cloud native', 'observability']",16
+Cuneiform Digital Library Initiative (CDLI),"['mysql', 'javascript', 'docker', 'php', 'SCSS']","['linguistics', 'History', 'culture']",7
+Our World In Data,"['python', 'mysql', 'd3', 'typescript', 'pandas']","['open data', 'data visualisation', 'Data cataloging']",2
+LLVM Compiler Infrastructure,"['llvm', 'c++', 'clang', 'mlir']","['compilers', 'development tools', 'libraries']",13
+moja global,"['python', 'javascript', 'c++', 'docker', 'Data-Science']","['climate monitoring', 'nature based solutions', 'land system modelling']",3
+ArduPilot,"['python', 'lua', 'c++', 'pixhawk']","['robotics', 'Drone', 'autonomous vehicle', 'UGV', 'unmanned vehicle']",4
+MoveIt,"['ros', 'c++']","['robotics', 'motion planning', 'trajectory generation', 'kinematics']",2
+TensorFlow,"['machine learning', 'tensorflow', 'ai', 'Jax', 'keras']","['education', 'research', 'machine learning']",22
+Free and Open Source Silicon Foundation,"['verilog', 'risc-v', 'compiler', 'web development']","['hardware', 'debug', 'web services', 'simulation', 'electronic design tools']",8
+Gentoo Foundation,"['c', 'python', 'shell', 'linux', 'bash']","['operating systems', 'security', 'embedded', 'init', 'package']",4
+Public Lab,"['javascript', 'ruby on rails']","['science', 'environment', 'community', 'documentation', 'forum']",3
+GRAME,"['c', 'python', 'javascript', 'c++', 'typescript']","['audio', 'compiler', 'digital signal processing', 'function programming language']",1
+SPDX,"['python', 'java', 'json', 'go', 'rdf']","['compliance', 'licensing', 'data', 'vulnerabilities']",2
+MIT App Inventor,"['javascript', 'java', 'gwt']","['education', 'development tools', 'android']",5
+The FreeBSD Project,"['c', 'llvm', 'assembly', 'make', 'POSIX shell']","['virtualization', 'operating system', 'Embedded System']",7
+Apache Software Foundation,"['c', 'java', 'c++']","['big data', 'cloud', 'libraries', 'other']",33
+Intel Video and Audio for Linux,"['c/c++', 'opengl', 'Codec', 'Media', 'Imaging']","['media', 'imaging', 'Codec']",2
+Wagtail,"['python', 'javascript', 'django']","['web', 'accessibility', 'cms']",3
+OpenWISP,"['python', 'javascript', 'django', 'lua', 'openwrt']","['networking', 'network management system', 'wifi', 'vpn', 'sdn']",2
+libvirt,"['kvm', 'hypervisor', 'qemu', 'lxc']","['virtualization', 'library']",2
+LEAP Encryption Access Project,"['java', 'golang', 'qt5', 'docker', 'ansible']","['privacy', 'vpn', 'Circumvention']",1
+checkstyle,"['java', 'antlr']","['static code analysis\u200e', 'code review tool', 'coding standards', 'coding conventions']",1
+R project for statistical computing,"['c', 'javascript', 'c++', 'r-project', 'fortran']","['visualization', 'machine learning', 'data science', 'graphics', 'statistics']",13
+Mayor's Office of New Urban Mechanics,"['python', 'javascript', 'ruby', 'tensorflow']","['web', 'machine learning', 'gis', 'civic tech', 'analytics']",2
+Processing Foundation,"['python', 'javascript', 'android', 'java', 'opengl']","['education', 'web', 'graphics', 'creative coding', 'design']",8
+Flashrom,"['c', 'x86', 'bios', 'rom', 'spi']","['hardware', 'drivers', 'firmware', 'flash chips', 'low level programming']",1
+Open Technologies Alliance - GFOSS,"['javascript', 'c/c++', 'nodejs', 'python 3', 'Machine Learning (ML)']","['web', 'robotics', 'open hardware', 'c++', 'nodered']",9
+Dart,"['flutter', 'dart']","['programming languages', 'mobile apps']",3
+CRIU,"['c', 'python', 'linux', 'go']","['cloud', 'containers', 'Checkpoint/Restore']",2
+Genome Assembly and Annotation,"['python', 'mysql', 'docker', 'pytorch', 'nextflow']","['machine learning', 'genomics', 'big data', 'cloud', 'hpc']",6
